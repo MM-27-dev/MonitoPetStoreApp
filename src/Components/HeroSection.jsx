@@ -1,5 +1,4 @@
 import React from "react";
-// import dog-girl from "./react.svg";
 import { FaPlay } from "react-icons/fa";
 
 const HeroSection = () => {
