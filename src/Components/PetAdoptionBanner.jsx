@@ -3,7 +3,7 @@ import { FaPlay } from "react-icons/fa";
 
 const PetAdoptionBanner = () => {
   return (
-    <section className="flex flex-col lg:flex-row items-center justify-between bg-[#002F5F] rounded-[2rem] p-8 lg:p-16 text-white">
+    <section className="flex flex-col lg:flex-row items-center justify-between bg-[#002F5F] rounded-[2rem] p-8 lg:p-16 text-white ">
       {/* Left Image Section */}
       <div className="w-full lg:w-1/2 relative z-10">
         <img
