@@ -3,8 +3,8 @@ import { FaPlay } from "react-icons/fa";
 
 const HeroSection = () => {
   return (
-    <section className="bg-[#FEF1DC]   py-12 px-6 md:px-20">
-      <div className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto gap-10">
+    <section className="bg-[#FEF1DC] w-full ">
+      <div className="flex flex-col md:flex-row px-6 py-10 md:px-20 items-center justify-between max-w-7xl ">
         {/* Left Text Section */}
         <div className="flex-1">
           <h1 className="text-4xl md:text-5xl font-extrabold text-[#002D4F] leading-tight">
